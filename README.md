@@ -30,12 +30,12 @@
 
 ## [![handshake.gif](https://s4.gifyu.com/images/handshake.gif)](https://gifyu.com/image/Zy2f) Connect with Me
 
-tirthshah485@gmail.com
+- 📫 **tirthshah485@gmail.com**
 <p align="center">
-<a href="https://www.linkedin.com/in/tirth485/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"/></a>
-<a href="https://instagram.com/tirth485" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tirth485"/></a>
-<a href="https://auth.geeksforgeeks.org/user/tirthshah485/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="tirth485"/></a>
-<a href="https://codeforces.com/profile/tirth485" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="tirth485"  /></a>
- <a href="https://leetcode.com/tirth485/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svgg" alt="tirth485"  /></a>
+<a href="https://www.linkedin.com/in/tirth485/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"/></a>
+<a href="https://instagram.com/tirth485" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tirth485" height="30" width="40"/></a>
+<a href="https://auth.geeksforgeeks.org/user/tirthshah485/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="tirth485" height="30" width="40"/></a>
+<a href="https://codeforces.com/profile/tirth485" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="tirth485"   height="30" width="40"/></a>
+ <a href="https://leetcode.com/tirth485/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svgg" alt="tirth485" height="30" width="40"  /></a>
 
 </p>
