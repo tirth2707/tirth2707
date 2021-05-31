@@ -31,4 +31,4 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tirth485/"><img src="https://img.shields.io/badge/-Tirth-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto: tirthshah485@gamil.com">Tirth Shah<img src="https://img.shields.io/badge/-Mail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+![tirthshah485@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
