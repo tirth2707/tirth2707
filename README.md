@@ -29,7 +29,7 @@
 
 ## [![handshake.gif](https://s4.gifyu.com/images/handshake.gif)](https://gifyu.com/image/Zy2f) Connect with Me
 
+tirthshah485@gmail.com
 <p align="center">
-tirthshah485@gmail.com;
 <a href="https://www.linkedin.com/in/tirth485/"><img src="https://img.shields.io/badge/-Tirth-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
