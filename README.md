@@ -27,3 +27,11 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tirth485&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<a href="https://github.com/tirth485">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tirth485&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tirth485&repo=convoychat" />
+</a>
+
