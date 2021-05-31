@@ -21,7 +21,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   
 ## 🏆&nbsp;My Stats
-<p align="center">
+<p>
 <a href="https://github.com/tirth485">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tirth485&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
   <img height="170em" src="http://github-readme-streak-stats.herokuapp.com?user=tirth485&theme=dark" alt="tirth485" />
