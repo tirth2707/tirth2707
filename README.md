@@ -22,20 +22,19 @@
   
 ## 🏆&nbsp;My Stats
 <p>
-<a href="https://github.com/tirth485">
+<a href="https://github.com/tirth2707">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tirth485&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=tirth485&theme=dark" alt="tirth485" />
+  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=tirth485&theme=dark" alt="tirth2707" />
 </a>
 </p>
 
 ## [![handshake.gif](https://s4.gifyu.com/images/handshake.gif)](https://gifyu.com/image/Zy2f) Connect with Me
 
-<!-- - 📫 **tirthshah485@gmail.com**
+ - 📫 **tirthshah485@gmail.com**
 <p align="center">
-<a href="https://www.linkedin.com/in/tirth485/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"/></a>
-<a href="https://instagram.com/tirth485" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tirth485" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/tirth2707/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"/></a>
 <a href="https://auth.geeksforgeeks.org/user/tirthshah485/profile" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="tirth485" height="30" width="40"/></a>
 <a href="https://codeforces.com/profile/tirth485" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="tirth485"   height="30" width="40"/></a>
- <a href="https://leetcode.com/tirth485/" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="tirth485" height="30" width="40"  /></a> -->
+ <a href="https://leetcode.com/tirth485/" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="tirth485" height="30" width="40"  /></a>
 
 </p>
