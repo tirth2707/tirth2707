@@ -23,8 +23,8 @@
 ## 🏆&nbsp;My Stats
 <p>
 <a href="https://github.com/tirth2707">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tirth485&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=tirth485&theme=dark" alt="tirth2707" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tirth2707&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=tirth2707&theme=dark" alt="tirth2707" />
 </a>
 </p>
 
